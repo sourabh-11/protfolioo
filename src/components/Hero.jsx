@@ -16,7 +16,7 @@ const Hero = () => {
     <div className="relative h-screen w-full">
     {/* Background Image */}
     <img
-      src="home.jpg"
+      src="/home.jpg"
       alt="Background"
       className="absolute h-full w-full object-cover"
     />
